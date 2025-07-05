@@ -1,6 +1,6 @@
 # Day 00 – Introduction to System Design
 
-**Date:** [Replace with current date]  
+**Date:** 5th July
 **Topic:** Why System Design? Why I'm Learning It
 
 ---
